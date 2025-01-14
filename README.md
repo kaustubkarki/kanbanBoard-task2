@@ -26,5 +26,5 @@ This is the project file for task2: Build a Kanban board with draggable task car
 
 ## Screenshots
 
-[kanban.png](https://postimg.cc/xkJdBdFB)
+![kanban.png](https://postimg.cc/xkJdBdFB)
 
