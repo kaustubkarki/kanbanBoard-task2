@@ -1,4 +1,3 @@
-
 # kanBan board
 
 This is the project file for task2: Build a Kanban board with draggable task cards and customizable columns.
@@ -18,13 +17,10 @@ This is the project file for task2: Build a Kanban board with draggable task car
 - Implement card search and filtering
 - Add undo/redo functionality ✅
 
-
 ## Authors
 
 - [@kaustubkarki](https://github.com/kaustubkarki)
 
-
 ## Screenshots
 
-![kanban.png](https://postimg.cc/xkJdBdFB)
-
+![kanban.png](public/kanban.png)
